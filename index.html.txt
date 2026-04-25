@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rana Roy | Portfolio</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+        }
+        header {
+            text-align: center;
+            padding: 60px 20px;
+        }
+        h1 {
+            font-size: 2.5rem;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .card {
+            background: #1e293b;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+        }
+        a {
+            color: #38bdf8;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Rana Roy</h1>
+    <p>Electronics & Telecom Engineer | Developer + Network Automation Enthusiast</p>
+</header>
+
+<section>
+    <h2>💡 About Me</h2>
+    <div class="card">
+        <p>I build software solutions and automate network tasks using Python. I have a strong foundation in networking concepts and am currently expanding my skills in development and automation.</p>
+    </div>
+</section>
+
+<section>
+    <h2>🧠 Skills</h2>
+    <div class="card">
+        <p><b>Development:</b> Python, HTML, CSS, JavaScript</p>
+        <p><b>Networking:</b> TCP/IP, VLAN, STP, OSPF, Cisco Packet Tracer</p>
+        <p><b>Tools:</b> GitHub, Wireshark, Excel</p>
+    </div>
+</section>
+
+<section>
+    <h2>🚀 Projects</h2>
+
+    <div class="card">
+        <h3>Network Automation Script</h3>
+        <p>Python script to ping multiple IPs and generate reports in CSV format.</p>
+    </div>
+
+    <div class="card">
+        <h3>Flask Web App</h3>
+        <p>Basic login and dashboard system using Flask.</p>
+    </div>
+
+    <div class="card">
+        <h3>Cisco Packet Tracer Lab</h3>
+        <p>Configured VLANs, STP, and routing across multiple switches.</p>
+    </div>
+
+</section>
+
+<section>
+    <h2>💼 Experience</h2>
+    <div class="card">
+        <p><b>MIS Executive</b></p>
+        <p>Handled data operations, reporting, and improved workflow efficiency.</p>
+    </div>
+</section>
+
+<section>
+    <h2>📞 Contact</h2>
+    <div class="card">
+        <p>Email: your-email@example.com</p>
+        <p>GitHub: <a href="#">Add your GitHub link</a></p>
+        <p>LinkedIn: <a href="#">Add your LinkedIn link</a></p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Rana Roy</p>
+</footer>
+
+</body>
+</html>
